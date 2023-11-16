@@ -1,0 +1,31 @@
+baseURL = "https://maxchima.github.io"
+languageCode = "ru-en"
+publishDir="docs"
+title = "Делаю сайт на хуго"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Kirill"
+  description = "Привет, проверка." 
+  github = "KirillPavlikov"
+  email = "kirya_pavlikov89@mail.ru"
+  url = "https://github.com/MaxChima/maxchima.github.io"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  favicon = "/images/avatar.png"
+  location = "Russia"
+  
+  [[params.links]]
+    title = "Link"
+    href = "https://github.com/MaxChima/maxchima.github.io"
+  [[params.links]]
+   title = "Link2"
+    href = "https://www.twitch.tv/pavlikovv"
+    icon = "https://static-cdn.jtvnw.net/jtv_user_pictures/208fe355-6ded-444a-8593-f29b4b2dbd31-profile_image-70x70.png"	    
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
