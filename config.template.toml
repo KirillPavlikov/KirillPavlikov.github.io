@@ -1,4 +1,4 @@
-baseURL = "https://maxchima.github.io"
+baseURL = "https://kirillpavlikov.github.io/"
 languageCode = "ru-en"
 publishDir="docs"
 title = "Делаю сайт на хуго"
@@ -11,7 +11,7 @@ pygmentsUseClasses = true
   description = "Привет, проверка." 
   github = "KirillPavlikov"
   email = "kirya_pavlikov89@mail.ru"
-  url = "https://github.com/MaxChima/maxchima.github.io"
+  url = "https://github.com/KirillPavlikov/KirillPavlikov.github.io"
   keywords = "blog"
   rss = true
   lastmod = true

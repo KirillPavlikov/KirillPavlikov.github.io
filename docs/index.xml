@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Делаю сайт на хуго</title>
-    <link>https://maxchima.github.io/</link>
+    <link>https://kirillpavlikov.github.io/</link>
     <description>Recent content on Делаю сайт на хуго</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-en</language>
     <lastBuildDate>Thu, 16 Nov 2023 17:43:00 +0300</lastBuildDate>
-    <atom:link href="https://maxchima.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kirillpavlikov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сегодня 16 число 11 месяца</title>
-      <link>https://maxchima.github.io/post/test3/</link>
+      <link>https://kirillpavlikov.github.io/post/test3/</link>
       <pubDate>Thu, 16 Nov 2023 17:43:00 +0300</pubDate>
-      <guid>https://maxchima.github.io/post/test3/</guid>
+      <guid>https://kirillpavlikov.github.io/post/test3/</guid>
       <description>&lt;p&gt;Сегодня был несложный день, отменили ccna.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ученье - свет, а не ученье - мрак</title>
-      <link>https://maxchima.github.io/post/test2/</link>
+      <link>https://kirillpavlikov.github.io/post/test2/</link>
       <pubDate>Thu, 16 Nov 2023 17:40:00 +0300</pubDate>
-      <guid>https://maxchima.github.io/post/test2/</guid>
+      <guid>https://kirillpavlikov.github.io/post/test2/</guid>
       <description>&lt;p&gt;Надо учиться чтобы быть умным.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Спокойная жизнь</title>
-      <link>https://maxchima.github.io/post/test/</link>
+      <link>https://kirillpavlikov.github.io/post/test/</link>
       <pubDate>Thu, 16 Nov 2023 17:38:00 +0300</pubDate>
-      <guid>https://maxchima.github.io/post/test/</guid>
+      <guid>https://kirillpavlikov.github.io/post/test/</guid>
       <description>&lt;p&gt;Я просто хочу спокойствия&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
