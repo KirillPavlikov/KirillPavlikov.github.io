@@ -20,7 +20,7 @@ pygmentsUseClasses = true
   
   [[params.links]]
     title = "Link"
-    href = "https://github.com/MaxChima/maxchima.github.io"
+    href = "https://github.com/KirillPavlikov/KirillPavlikov.github.io"
   [[params.links]]
    title = "Link2"
     href = "https://www.twitch.tv/pavlikovv"
